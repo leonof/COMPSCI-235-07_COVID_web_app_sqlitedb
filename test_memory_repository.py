@@ -3,7 +3,7 @@ from typing import List
 
 import pytest
 
-from covid.domain.model import User, Article, Tag, Comment, make_comment
+from covid.movie.model import *
 from covid.adapters.repository import RepositoryException
 
 

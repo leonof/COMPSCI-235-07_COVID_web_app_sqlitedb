@@ -13,6 +13,6 @@ def movie():
 
 
 def test_movie_construction(movie):
-    assert article.title == 'Year 1983'
-    assert article.year == 2019
+    assert movie.title == 'Year 1983'
+    assert movie.year == 2019
     
